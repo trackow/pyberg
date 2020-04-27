@@ -9,4 +9,8 @@ The Fortran source can be found [here](https://github.com/trackow/iceberg-templa
 
 **Pre-industrial test over 20 years**. Using COSMO input data.
 
-![Pre-industrial case PI](./test.png)
+![Pre-industrial case PI](./PI_toXun.png)
+
+**Last glacial maximum test over 20 years**. Using COSMO input data.
+
+![Last glacial maximum test LGM](./LGM_toXun.png)
