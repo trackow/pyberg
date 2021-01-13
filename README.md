@@ -14,7 +14,7 @@ The analysis for the published paper
 Aidan Starr, Ian R. Hall, Stephen Barker, Thomas Rackow, Xu Zhang, Sidney R. Hemming,
 H.J.L van der Lubbe, Gregor Knorr, Melissa A. Berke, Grant R. Bigg, Alejandra Cartagena,
 Francisco J. Jiménez-Espejo, Xun Gong, Jens Gruetzner, Nambiyathodi Lathika, Leah J.
-LeVay, Rebecca S. Robinson, Martin Ziegler, and the Exp. 361 Science Party<em>
+LeVay, Rebecca S. Robinson, Martin Ziegler, and the Exp. 361 Science Party</em>
 
 
 can be reproduced with the following Jupyter [notebook](pyberg_SouthernOceanLead_saveSST_MELT_TRAJ.ipynb). To start from a simpler example script
@@ -25,4 +25,4 @@ and to use the latest additions to the code (e.g. ERA5 forcing), please contact 
 **Southern Ocean Iceberg Melt under pre-industrial (PI) vs last glacial maximum (LGM) conditions**
 
 ![Iceberg Melt in PI and LGM](./pyberg_example.jpg)
-<em>(left) Iceberg trajectories, (middle) sea surface temperature, and (right) iceberg probability between 0-50°E in the Southern Ocean under PI and LGM conditions, using pyberg forced with COSMOS climate model output.<em>
+<em>(left) Iceberg trajectories, (middle) sea surface temperature, and (right) iceberg probability between 0-50°E in the Southern Ocean under PI and LGM conditions, using pyberg forced with COSMOS climate model output.</em>
