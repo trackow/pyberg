@@ -16,8 +16,9 @@ H.J.L van der Lubbe, Gregor Knorr, Melissa A. Berke, Grant R. Bigg, Alejandra Ca
 Francisco J. Jiménez-Espejo, Xun Gong, Jens Gruetzner, Nambiyathodi Lathika, Leah J.
 LeVay, Rebecca S. Robinson, Martin Ziegler, and the Exp. 361 Science Party<em>
 
+
 can be reproduced with the following Jupyter [notebook](pyberg_SouthernOceanLead_saveSST_MELT_TRAJ.ipynb). To start from a simpler example script
-and to use the latest additions to the code (e.g. ERA5 forcing), please contact [Thomas Rackow](trackow@awi.de) directly.
+and to use the latest additions to the code (e.g. ERA5 forcing), please contact [Thomas Rackow](mailto:trackow@awi.de)?subject=[GitHub]%20Pyberg%20source) directly.
 
 ### example plots using pyberg and COSMOS forcing
 
