@@ -8,15 +8,16 @@ The Fortran source can be found [here](https://swrepo1.awi.de/scm/viewvc.php/tru
 
 ### pyberg manuscripts and code
 
-The analysis for the submitted paper 
+The analysis for the published paper
 
-<em>'An Antarctic Iceberg Melt Driver of Glacial Deep Water-Mass Reorganizations' by
+<em>'Antarctic icebergs reorganize ocean circulation during Pleistocene glacials' by
 Aidan Starr, Ian R. Hall, Stephen Barker, Thomas Rackow, Xu Zhang, Sidney R. Hemming,
 H.J.L van der Lubbe, Gregor Knorr, Melissa A. Berke, Grant R. Bigg, Alejandra Cartagena,
 Francisco J. Jiménez-Espejo, Xun Gong, Jens Gruetzner, Nambiyathodi Lathika, Leah J.
 LeVay, Rebecca S. Robinson, Martin Ziegler, and the Exp. 361 Science Party<em>
 
-can be reproduced with the following Jupyter [notebook](pyberg_SouthernOceanLead_saveSST_MELT_TRAJ.ipynb).
+can be reproduced with the following Jupyter [notebook](pyberg_SouthernOceanLead_saveSST_MELT_TRAJ.ipynb). To start from a simpler example script
+and to use the latest additions to the code (e.g. ERA5 forcing), please contact [Thomas Rackow](trackow@awi.de) directly.
 
 ### example plots using pyberg and COSMOS forcing
 
