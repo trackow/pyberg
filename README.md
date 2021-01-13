@@ -8,7 +8,7 @@ The Fortran source can be found [here](https://swrepo1.awi.de/scm/viewvc.php/tru
 
 ### pyberg manuscripts and code
 
-The analysis for the [published paper](https://doi.org/10.1038/s41586-020-03094-7)
+The pyberg analysis for the [published paper](https://doi.org/10.1038/s41586-020-03094-7)
 
 <em>'Antarctic icebergs reorganize ocean circulation during Pleistocene glacials' by
 Aidan Starr, Ian R. Hall, Stephen Barker, Thomas Rackow, Xu Zhang, Sidney R. Hemming,
@@ -18,7 +18,7 @@ LeVay, Rebecca S. Robinson, Martin Ziegler, and the Expedition 361 Science Party
 
 
 can be reproduced with the following Jupyter [notebook](pyberg_SouthernOceanLead_saveSST_MELT_TRAJ.ipynb). To start from a simpler example script
-and to use the latest additions to the code (e.g. ERA5 forcing), please contact [Thomas Rackow](mailto:trackow@awi.de?subject=[GitHub]%20Pyberg%20source) directly.
+and to use the latest additions to the code (e.g. ERA5 forcing), please contact [Thomas Rackow](mailto:trackow@awi.de?subject=[GitHub]%20Pyberg%20source) directly. More info on the paper in <em>Nature</em> can be found [here](https://github.com/AidanStarr/Starr_et_al_2020_Icebergs).
 
 ### example plots using pyberg and COSMOS forcing
 
