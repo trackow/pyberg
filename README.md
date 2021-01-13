@@ -2,7 +2,7 @@
 Routines and notebooks for computing iceberg trajectories and melting offline
 
 - so far supports reading (interpolated) forcing data from the COSMOS climate model and AWI-CM
-- code is based on the Fortran code of FESOM-IB
+- code is based on the Fortran code of FESOM-IB; [reference:](https://doi.org/10.1002/2016JC012513) Rackow, T et al. (2017): A simulation of small to giant Antarctic iceberg evolution: Differential impact on climatology estimates. Journal of Geophysical Research: Oceans, 21 pp, https://doi.org/10.1002/2016JC012513
 
 The Fortran source can be found [here](https://swrepo1.awi.de/scm/viewvc.php/trunk/src/?root=fesom-ib), after registration at [swrepo1.awi.de](https://swrepo1.awi.de).
 
